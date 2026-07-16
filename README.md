@@ -1,4 +1,5 @@
 # Attachment Scout
+## The Unused Image Finder for WordPress
 
 > Warning: Attachment Scout is a utility plugin that can permanently delete WordPress attachment files. It is not an automated, fully safe cleanup tool. Use it only after taking a full backup of your website and only after reviewing each result carefully.
 
